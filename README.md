@@ -17,7 +17,7 @@ print("Welcome to my profile!")
 ### Currently Working On
 **Monitor Bot**: Learning selenium to monitor e-commerce inventory  
 
-#####motivation:  
+##### motivation:  
 I collect pokemon cards but they sell out before I even know they're available.
 
 
