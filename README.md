@@ -16,8 +16,7 @@ print("Welcome to my profile!")
 
 ### Currently Working On
 **Monitor Bot**: Learning selenium to monitor e-commerce inventory 
-[https://github.com/selenium-microservice/](https://github.com/selenium-microservice/)
-
+https://github.com/thehubisgitted/selenium-microservice
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=thehubisgitted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kenneth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehubisgitted&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
