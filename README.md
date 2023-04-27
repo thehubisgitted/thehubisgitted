@@ -17,7 +17,8 @@ print("Welcome to my profile!")
 ### Currently Working On
 **Monitor Bot**: Learning selenium to monitor e-commerce inventory  
 
-*motivation*: I collect pokemon cards but they sell out before I they're in stock.
+*motivation*: I collect pokemon cards but they sell out before I they're in stock.  
+
 [https://github.com/selenium-microservice/](https://github.com/selenium-microservice/)
 
 
