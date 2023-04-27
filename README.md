@@ -1,6 +1,7 @@
 # Kenneth Pinzon
 
-*Full-Stack Developer 💻*
+*Full-Stack Developer 💻*  
+
 ![](https://komarev.com/ghpvc/?username=thehubisgitted&color=orange)
 
 ```python
