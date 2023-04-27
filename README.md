@@ -1,7 +1,10 @@
-### Hi there 👋
+# Kenneth Pinzon
 
-<!--
-**thehubisgitted/thehubisgitted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Full-Stack Developer*
+
+```rust
+info!("Another developer working on Open Source software.");
+```
 
 Here are some ideas to get you started:
 
