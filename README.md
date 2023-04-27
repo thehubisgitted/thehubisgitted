@@ -2,7 +2,7 @@
 
 *Full-Stack Developer*
 
-```rust
-print("Welcome to my profile!");
+```python
+print("Welcome to my profile!")
 ```
 
