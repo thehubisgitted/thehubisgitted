@@ -9,12 +9,16 @@ print("Welcome to my profile!")
 ```
 ---
 
-### About Me
+### 💬About Me
 - Aspiring Full-Stack Engineer
 - Valorant player and Anime fan
 - Code up fun side projects
 
-### Languages and Tools
+### ⏳Currently Working On
+**Monitor Bot**: Learning selenium to monitor e-commerce inventory 
+https://github.com/thehubisgitted/selenium-microservice
+
+### 🔧Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,9 +29,7 @@ print("Welcome to my profile!")
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-### Currently Working On
-**Monitor Bot**: Learning selenium to monitor e-commerce inventory 
-https://github.com/thehubisgitted/selenium-microservice
+---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=thehubisgitted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kenneth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehubisgitted&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
