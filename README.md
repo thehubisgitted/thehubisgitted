@@ -14,8 +14,8 @@ print("Welcome to my profile!")
 - Code up fun side projects
 
 ### Currently Working On
-**Monitor Bot**: Learning selenium to monitor e-commerce inventory 
-https://github.com/thehubisgitted/selenium-microservice
+**Recipe GAN Website**: Learning about generative AI and deploying via Sveltekit
+
 
 ### Tools
 
