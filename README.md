@@ -28,6 +28,7 @@ print("Welcome to my profile!")
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 <br />
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thehubisgitted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kenneth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehubisgitted&layout=compact&theme=buefy&hide_border=true" /></a> |
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api?username=thehubisgitted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
+| <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark" alt="Kenneth's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehubisgitted&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
