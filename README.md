@@ -1,4 +1,4 @@
-or# Kenneth Pinzon
+# Kenneth Pinzon
 
 *Junior Developer 💻*  
 
