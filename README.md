@@ -1,4 +1,4 @@
-# Kenneth Pinzon
+or# Kenneth Pinzon
 
 *Junior Developer 💻*  
 
@@ -13,8 +13,6 @@ print("Welcome to my profile!")
 - Valorant player and Anime fan
 - Code up fun side projects
 
-### Currently Working On
-**Recipe GAN Website**: Learning about Vertex AI, API Hosting and Authentication in Sveltekit
 
 
 ### Tools
