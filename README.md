@@ -10,8 +10,8 @@ print("Welcome to my profile!")
 
 ### About Me
 - Aspiring Full-Stack Engineer
-- Valorant player and Anime fan
-- Code up fun side projects
+- CS2 player and Anime fan
+- V2 Climber
 
 
 
