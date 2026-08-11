@@ -27,5 +27,7 @@ print("Welcome to my profile!")
 </div>
 <br />
 
-| <img align="center" src="./profile/stats.svg" alt="Kenneth's github stats" /> | <img align="center" src="./profile/top-langs.svg" alt="Kenneth's top languages" /> |
-| ------------- | ------------- |
+<p align="left">
+  <img height="200" src="./profile/stats.svg" alt="Kenneth's GitHub stats" />
+  <img height="200" src="./profile/top-langs.svg" alt="Kenneth's top languages" />
+</p>
