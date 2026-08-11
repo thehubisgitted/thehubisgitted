@@ -27,5 +27,5 @@ print("Welcome to my profile!")
 </div>
 <br />
 
-| <img align="center" src="https://github-stats-extended.vercel.app/api?username=thehubisgitted&&show_icons=true&theme=buefy&hide_border=true" alt="Kenneth's github stats" /></a> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thehubisgitted&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="./profile/stats.svg" alt="Kenneth's github stats" /> | <img align="center" src="./profile/top-langs.svg" alt="Kenneth's top languages" /> |
 | ------------- | ------------- |
