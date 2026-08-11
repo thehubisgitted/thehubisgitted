@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README-STATS Card
 
 on:
   schedule:
